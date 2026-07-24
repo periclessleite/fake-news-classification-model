@@ -84,3 +84,6 @@ Conforme os requisitos experimentais, foram empregados os seguintes classificado
 
 ## 10. Link para o vídeo 
 * **https://youtu.be/9emoJtHiJKE**
+
+## 11. Declaração sobre o uso de IA
+* **Neste projeto foi utilizado a IA generativa Gemini para estruturação do README.**
