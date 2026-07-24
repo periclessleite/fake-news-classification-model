@@ -81,3 +81,6 @@ Conforme os requisitos experimentais, foram empregados os seguintes classificado
 * **Bruno Lopes dos Santos:** Responsável pela extração de métricas de desempenho, geração das matrizes de confusão e validação dos resultados.
 * **Pericles dos Santos Leite:** Responsável pela condução da análise exploratória, pre-processamento e tratamento do dataset.
 * **Nayara Oliveira Santos:** Responsável pela arquitetura geral do script e integração com os modelos de machine learning.
+
+## 10. Link para o vídeo 
+* **https://youtu.be/9emoJtHiJKE**
